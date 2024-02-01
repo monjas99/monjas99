@@ -5,7 +5,7 @@
   - Actualmente realizando el campus 42 en [42 madrid fundación telefonica](https://www.fundaciontelefonica.com/empleabilidad/campus-42/)
 
 ## Mis proyectos
-   [📘 42-libft](https://github.com/monjas99/42-libft)
+  | [📘 42-libft](https://github.com/monjas99/42-libft) |
    [🔠 Get_next_line](https://github.com/monjas99/get_next_line)
    [✏ Printf](https://github.com/monjas99/Printf)
    [🔢 Push_swap](https://github.com/monjas99/push_swap)
