@@ -3,6 +3,7 @@
 ## Sobre mi
   - Administrador de sistemas informaticos en red </br>
   - Actualmente realizando el campus 42 en [42 madrid fundación telefonica](https://www.fundaciontelefonica.com/empleabilidad/campus-42/)
+  - Mi correo monjasandreu@gmail.com
 
 ## Mis proyectos
    [📘 42-libft](https://github.com/monjas99/42-libft) </br>
