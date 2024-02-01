@@ -5,12 +5,12 @@
   - Actualmente realizando el campus 42 en [42 madrid fundación telefonica](https://www.fundaciontelefonica.com/empleabilidad/campus-42/)
 
 ## Mis proyectos
-  | [📘 42-libft](https://github.com/monjas99/42-libft) |
-   [🔠 Get_next_line](https://github.com/monjas99/get_next_line)
-   [✏ Printf](https://github.com/monjas99/Printf)
-   [🔢 Push_swap](https://github.com/monjas99/push_swap)
-   [📐 Fdf](https://github.com/monjas99/fdf)
-   [🔀 Pipex](https://github.com/monjas99/pipex)
+   [📘 42-libft](https://github.com/monjas99/42-libft) </br>
+   [🔠 Get_next_line](https://github.com/monjas99/get_next_line) </br>
+   [✏ Printf](https://github.com/monjas99/Printf) </br>
+   [🔢 Push_swap](https://github.com/monjas99/push_swap) </br>
+   [📐 Fdf](https://github.com/monjas99/fdf) </br>
+   [🔀 Pipex](https://github.com/monjas99/pipex) </br>
    [💻 Minishell](https://github.com/monjas99/Minishell)
 ## Skills
 <div>
