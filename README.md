@@ -1,9 +1,10 @@
 <h1>David Monjas 👋</h1>
 
 <h2>Sobre mi</h2>
+[42 madrid fundación telefonica](https://www.fundaciontelefonica.com/empleabilidad/campus-42/)
 <div>
   - Administrador de sistemas informaticos en red </br>
-  - Actualmente realizando el campus 42 en [42 madrid fundación telefonica](https://www.fundaciontelefonica.com/empleabilidad/campus-42/)
+  - Actualmente realizando el campus 42 en 
 
   <h2>Skills</h2>
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt"C" width="40" height="40"/>&nbsp;
